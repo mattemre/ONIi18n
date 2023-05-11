@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.DESC
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.DESC"
+msgid ""
+"Stained glass tiles are transparent tiles that provide a fashionable barrier "
+"against liquid and gas."
+msgstr ""
+"Les dalles de verre coloré sont des dalles transparentes qui constituent une "
+"barrière à la mode contre les liquides et les gaz."
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.EFFECT
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE."
+"EFFECT"
+msgid ""
+"Used to build the walls and floors of rooms.\n"
+"\n"
+"Allows <link=\"LIGHT\">Light</link> and <link=\"DECOR\">Decor</link> pass "
+"through.\n"
+"\n"
+"<link=\"STAINEDGLASSPALETTE\">Open Palette</link>"
+msgstr ""
+"Odaların duvarlarını ve zeminlerini yapmak için kullanılır.\n"
+"\n"
+"<link=\"LIGHT\">Işık</link> ve <link=\"DECOR\">dekor</link>'un geçmesine izin "
+"verir.\n"
+"\n"
+"<link=\"STAINEDGLASSPALETTE\">Açık Palet</link>"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.NAME
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.NAME"
+msgid "<link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">Stained Glass Tile</link>"
+msgstr "<link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">Renkli Cam Levha</link>"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.STAINED_NAME
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE."
+"STAINED_NAME"
+msgid ""
+"{element} <link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">Stained Glass Tile</"
+"link>"
+msgstr ""
+"{element} <link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">Renkli Cam Levha</link>"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.AVERAGEQUALITYNAME
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE."
+"AVERAGEQUALITYNAME"
+msgid "Mediocre Glass Sculpture"
+msgstr "Vasat cam heykel"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.DESC
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.DESC"
+msgid ""
+"Duplicants who have learned art skills can produce more decorative "
+"sculptures."
+msgstr ""
+"Sanat becerilerini öğrenmiş kopyalar daha dekoratif heykeller üretebilirler."
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.EFFECT
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.EFFECT"
+msgid ""
+"Majorly increases <link=\"DECOR\">Decor</link>, contributing to <link="
+"\"MORALE\">Morale</link>.\n"
+"\n"
+"Must be sculpted by a Duplicant."
+msgstr ""
+"<link=\"DECOR\">Dekor</link>u büyük ölçüde arttırarak "
+"<link=\"MORALE\">moral</link>e katkıda bulunur.\n"
+"\n"
+"Bir Kopya tarafından şekillendirilmiş olmalı."
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.EXCELLENTQUALITYNAME
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE."
+"EXCELLENTQUALITYNAME"
+msgid "Genius Glass Sculpture"
+msgstr "Dahi Cam Heykel"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.NAME
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.NAME"
+msgid "<link=\"DECORPACKAGLASSSCULPTURE\">Glass Block</link>"
+msgstr "<link=\"DECORPACKAGLASSSCULPTURE\">Cam Blok</link>"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.POORQUALITYNAME
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE."
+"POORQUALITYNAME"
+msgid "\"Abstract\" Glass Sculpture"
+msgstr "\"Soyut\" Cam Heykel"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.DESC
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.DESC"
+msgid "Light reduces Duplicant stress and is required to grow certain plants."
+msgstr ""
+"Işık Kopyalardan kaynaklanan stresi azaltır ve bazı bitkilerin büyümesi için "
+"gereklidir."
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.EFFECT
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.EFFECT"
+msgid ""
+"Provides <link=\"LIGHT\">Light</link> when <link=\"POWER\">Powered</link>.\n"
+"\n"
+"Duplicants can operate buildings more quickly when the building is lit."
+msgstr ""
+"<link=\"POWER\">Güç verildiğinde</link> <link=\"LIGHT\">ışık</link> sağlar.\n"
+"\n"
+"Kopyalar, bina aydınlatıldığında binaları daha hızlı çalıştırabilir."
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.NAME
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.NAME"
+msgid "<link=\"DECORPACKAMOODLAMP\">Mood Lamp</link>"
+msgstr "<link=\"DECORPACKAMOODLAMP\">Ruh Hali Lambası</link>"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.AI
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.AI"
+msgid "AI in a jar"
+msgstr "yapay zeka bir kavanozda"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.ARCHIVE_TUBE
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.ARCHIVE_TUBE"
+msgid "Archive Tube"
+msgstr "Arşiv Tüpü"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.BROTHGAR
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.BROTHGAR"
+msgid "Brothgar Logo"
+msgstr "Brothgar Logosu"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.CAT
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.CAT"
+msgid "Cat"
+msgstr "Kedi"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.CUDDLE_PIP
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.CUDDLE_PIP"
+msgid "Cuddle Pip"
+msgstr "Sarıl Pip"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.D6
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.D6"
+msgid "D6"
+msgstr "D6"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.DENSE
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.DENSE"
+msgid "Dense Puft"
+msgstr "Yoğunlukla Puf"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.DIAMONDHATCH
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.DIAMONDHATCH"
+msgid "Diamond Hatch"
+msgstr "Elmas Hatch."
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.GLITTERPUFT
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.GLITTERPUFT"
+msgid "Glitter Puft"
+msgstr "Simli Puft"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.KLEI_MUG
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.KLEI_MUG"
+msgid "Klei Mug"
+msgstr "Küçük Kupa"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.KONNY87
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.KONNY87"
+msgid "Konny87 Logo"
+msgstr "Konny87 Logosu"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.LUMAPLAYS
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.LUMAPLAYS"
+msgid "Luma Plays Logo"
+msgstr "Luma Plays Logosu"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.MOON
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.MOON"
+msgid "Moon"
+msgstr "Ay"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.MORB
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.MORB"
+msgid "Morb"
+msgstr "Morb"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.OGRE
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.OGRE"
+msgid "Shrumal Ogre"
+msgstr "Mantar canavarı"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.OWO
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.OWO"
+msgid "OwO Slickster"
+msgstr "kaygan OwO"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.PIP
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.PIP"
+msgid "Pip"
+msgstr "Pip"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.RANDOM
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.RANDOM"
+msgid "Random"
+msgstr "Rasgele"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.REDSTONE_LAMP
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT."
+"REDSTONE_LAMP"
+msgid "Redstone Lamp"
+msgstr "Kızıltaş Lambası"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.ROCKET
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.ROCKET"
+msgid "Rocket"
+msgstr "Roket"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.SATURN
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.SATURN"
+msgid "Saturn"
+msgstr "Satürn"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.SLAGMITE
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.SLAGMITE"
+msgid "Slagmite"
+msgstr "salyangozlar"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.STAR
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.STAR"
+msgid "Star"
+msgstr "Yıldız"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.TESSERACT
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.TESSERACT"
+msgid "Tesseract"
+msgstr "Teserakt"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.UNICORN
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.UNICORN"
+msgid "Unicorn"
+msgstr "Unicorn"
+
+#. DecorPackA.STRINGS.MISC.TAGS.DECORPACKA_STAINEDGLASSMATERIAL
+msgctxt "DecorPackA.STRINGS.MISC.TAGS.DECORPACKA_STAINEDGLASSMATERIAL"
+msgid "Glass Dye"
+msgstr "Cam Boyası"
+
+#. DecorPackA.STRINGS.UI.BUILDINGEFFECTS.THERMALCONDUCTIVITYCHANGE
+msgctxt "DecorPackA.STRINGS.UI.BUILDINGEFFECTS.THERMALCONDUCTIVITYCHANGE"
+msgid "Thermal Conductivity: {0}"
+msgstr "Termal İletkenlik: {0}"
+
+#. DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.HIGHER
+msgctxt "DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.HIGHER"
+msgid "higher"
+msgstr "daha yüksek"
+
+#. DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.LOWER
+msgctxt "DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.LOWER"
+msgid "lower"
+msgstr "daha alçak"
+
+#. DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.THERMALCONDUCTIVITYCHANGE
+msgctxt ""
+"DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.THERMALCONDUCTIVITYCHANGE"
+msgid ""
+"The dye {dyeElement} has {higherOrLower} thermal conductivity than "
+"{baseElement}, modifying it by {percent}."
+msgstr ""
+"{dyeElement} boyası, {baseElement} boyasından {higherOrLower} termal "
+"iletkenliğe sahiptir ve bunu {percent} oranında değiştirir."
+
+#. DecorPackA.STRINGS.UI.CODEX.CATEGORYNAMES.MODS
+msgctxt "DecorPackA.STRINGS.UI.CODEX.CATEGORYNAMES.MODS"
+msgid "Mods"
+msgstr "Modlar"
+
+#. DecorPackA.STRINGS.UI.CODEX.PALETTE
+msgctxt "DecorPackA.STRINGS.UI.CODEX.PALETTE"
+msgid "Stained Glass Palette"
+msgstr "Renkli Cam Levha"
+
+#. DecorPackA.STRINGS.UI.UISIDESCREENS.MOODLAMP_SIDE_SCREEN.TITLE
+msgctxt "DecorPackA.STRINGS.UI.UISIDESCREENS.MOODLAMP_SIDE_SCREEN.TITLE"
+msgid "Lamp type"
+msgstr "Lamba tipi"
+
+#. DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.DISABLED.NAME
+msgctxt "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.DISABLED.NAME"
+msgid "Fabulous Off"
+msgstr "Muhteşem Kapalı"
+
+#. DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.DISABLED.TOOLTIP
+msgctxt "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.DISABLED.TOOLTIP"
+msgid "Take away the magic."
+msgstr "Büyüyü kaldır."
+
+#. DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.ENABLED.NAME
+msgctxt "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.ENABLED.NAME"
+msgid "Fabulous On"
+msgstr "Muhteşem Açık"
+
+#. DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.ENABLED.TOOLTIP
+msgctxt "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.ENABLED.TOOLTIP"
+msgid "Bring the magic!"
+msgstr "Büyüyü getir!"
